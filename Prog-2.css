@@ -1,0 +1,23 @@
+body{
+	background-image:url("pes.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+h1{
+color:gold;
+background-color:blue;
+}
+p{
+	background-color:black;
+	color:white;
+}
+a{
+	background-color:red;
+	color:blue;
+}
+#abc{
+	text-align:center;
+	font-size:500;
+}
+	
